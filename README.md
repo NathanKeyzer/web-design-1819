@@ -1,58 +1,90 @@
 # Web Design @cmda-minor-web 1819
 //Werken met en voor echte mensen.
 
-In dit vak gaan we dingen ontwerpen voor echte mensen. 
+## Marie
 
-Je bent ingedeeld in een groep. Bij elke groep horen een paar opdrachten. Die mag je zelf kiezen. 
+Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
 
-## Maandag
-Op maandag in de eerste week kies je een van de volgende kleine opdrachten om mee op gang te komen.
 
-Voor het maken van deze opdrachtjes maak je gebruik van de *Exclusive Design Principles:*
+## User Scenario
 
-- Study Situation
-- Ignore Conventions
-- Prioritise Identity
-- Add Nonsense
+Marie is Doof en ervaart het luisteren van podcast op een andere manier. Ze leest de gesproken tekst. Deze tekst is vrij saai er zit weinig tot geen enkele emotie in. Met mijn idee wil ik meer gevoel en emotie creëren voor Marie
 
-### Marie
 
-Marie is Doof (met een hoofdletten inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
+## Test 1 Kennismaking Marie
+
+
+Kennismaking Marie
+
+Voordat ik aan de slag kon voor Marie heb ik gekeken hoe een doof iemand nu een podcast ervaart. Dit is doormiddel van ondertiteling en closed captions. Dit is vrij saai en geeft geen extra beleving.
+
+Na het gesprek heb ik een duidelijk beeld gekregen wat ik voor Marie kon gaan maken.
 
 <details>
-<summary>Hoe werkt een podcast voor Marie?</summary>
-<p>In een transcriptie gaat natuurlijk nogal wat nuance verloren. Maak een oplossing die minimaal net zo prettig is voor iemand die niet kan luisteren als voor iemand die wel kan luisteren. 
+<summary>Aantekeningen:</summary>
+
+- Gebarentaal als eerste taal.
+
+- Beelden wat niet te zien is. Denk hierbij aan audio captions.
+
+- Achtergrond geluiden met een betekenis. Niet elk geluid verwoorden.
+
+- Visueel onderbouwen wat er gebeurd bij een explosie.
+
+- Gesproken zinnen zijn vaak niet afgemaakt dus dat is dan ook moeilijk te lezen voor een doof persoon.
+
+- Kleur gebruik en texturen gevoel. Een geluid dat een bepaald gevoel geeft wordt door een Doof persoon anders ervaren.
+
+- Een dialoog visueel weergeven. Hoe kan je dit leuk maken. Meer dan alleen het gesprek, vormen van interactie tussen de beide personen.
+
+- Gebarentaal heeft ook grotere betekenissen. Gezichtsuitdrukking draagt hieraan bij.
+
+- Sarcastisch zijn in gebarentaal is erg lastig.
+
+- Gebarentaal kan je alles mee zeggen zijn zelfs dialecten in.
+
+- Podcast in gebarentaal hebben niet veel doven behoefte aan. Duurt lang.
+
+- Meestal 2 regels ondertiteling
+
+- In Engeland doen ze het woord voor woord.
+
+- Woord voor woord heeft Marie de voorkeur. Live.
+
+- Film is dat lastig met beeld en tekst focus moet je dan verdelen.
+
+- Speel met font adhv het genre of onderwerp.
+
+- Gebarentaal kan je een andere presentatie geven aan wat je zegt.
+
+Door dit laatste punt ben ik tot mijn concept gekomen.
 </details>
 
+## Test 2 Marie
 <details>
-<summary>Hoe werken closed captions voor Marie?</summary>
-<p>Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Hoe zou je closed captions 
+<summary>Test2</summary>
+Tijdens mijn tweede test heb ik Marie laten zien wat ik speciaal voor haar heb gemaakt. Hierbij liet ik een transcript versie zien van een gesprek bij De Wereld Draait Door.
+
+Bij dit programma voeren zij gesprekken aan tafel die best fel kunnen zijn. Daarom heb ik gekozen voor dit fragment.[Fragment](https://dewerelddraaitdoor.bnnvara.nl/media/580199)
 </details>
 
-### Larissa
-
-Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader. Je snapt dat heel veel van de gangbare design patterns niet optimaal werken voor haar omdat ze 100% vanuit een visueel oogpunt ontworpen zijn.
-
+## Test 3 Marie
 <details>
-<summary>Hoe zou een navigatie voor Larissa kunnen werken?</summary>
-<p>Tijdens het introductiecollege heb je een filmpje gezien van een niet-getrainde screenreadergebruiker die een navigatiemenu gebruikt. Dat was niet optimaal. Het menu helemaal onderaan de pagina zetten is weer onhandig voor als je dat wel nodig hebt. Stel nou dat *iedereen* blind was en een screenreader gebruikte, wat zou dan het normale navigatie-pattern zijn?
-</details>
+<summary>Test 3</summary>
+Test 3 is de laatste test met Marie.
+Hier wilde in een aantal punten testen.
+- Leessneljheid
+- Vormen
+- Typografie
 
-<details>
-<summary>Ontwerp grappige, geanimeerde illustraties.</summary>
-<p>Hannes Wallrafen maakt <a href="http://www.geluidinzicht.nl/geluidsprojecten/">audiocollages</a>. Deze wil hij graag op een nieuwe website zetten. Hier wil hij grappige, korte geanimeerde illustraties bij hebben. Ontwerp bij één audiocollage één geanimeerde illustratie <em>die zowel voor Larissa, als voor jezelf grappig is</em>.
-</details>
+Dit om de podcast ervaring van marie nog beter te maken zodat zij op haar gemak kan genieten van deze podcast.
 
-### Marijn
+Feedback van Marie:
+- Focus van spreker
+- Leestempo verlengen
+- Verschil in stijl Publiek en aan tafel
+- Naam van spreker minder prominent in beeld
+- Kleur aan spreker toevoegen
 
-Marijn is motorisch gestoord. Hij gebruikt zijn computer dus anders dan wij. Hij heeft veel moeite met fijne motoriek. Hij gebruikt zijn toetsenbord om te navigeren, en in de Accessibility settings van zijn Mac heeft hij Sticky Keys aan staan.
-
-<details>
-<summary>Ontwerp een date picker voor Marijn</summary>
-<p>. Hij reist veel met de trein, en hij moet van tevoren aangeven welke trein hij wil nemen zodat er iemand is om hem te helpen met zijn rolstoel. Date-pickers zijn over het algemeen priegelig, en niet ontworpen voor iemand die afhankelijk is van zijn toetsenbord.
-</details>
-
-<details>
-<summary>Ontwerp een date picker voor Marijn</summary>
-<p>. Hij reist veel met de trein, en hij moet van tevoren aangeven welke trein hij wil nemen zodat er iemand is om hem te helpen met zijn rolstoel. Date-pickers zijn over het algemeen priegelig, en niet ontworpen voor iemand die afhankelijk is van zijn toetsenbord.
+Dit heb ik verwerkt in mijn laatste versie.
 </details>

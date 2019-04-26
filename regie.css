@@ -1,0 +1,126 @@
+body{
+background-color: white;
+background-size: cover;
+overflow: hidden;
+}
+header{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+form{
+  display: flex;
+  justify-content: center;
+}
+h1{
+  color: black;
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;;
+  margin: 0 3rem;
+}
+h2{
+  color: black;
+
+  margin: 0 20vw;
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;;
+}
+button{
+  background-color: white;
+  color:red;
+  font-size: 1em;
+  border: solid red 1px;
+  border-radius: none;
+  width: 10%;
+  padding: 10px;
+  margin: 10px;
+}
+button:hover{
+  background-color: red;
+  color:white;
+  font-size: 1em;
+  border: solid white 1px;
+  border-radius: none;
+  width: 10%;
+  padding: 10px;
+  margin: 10px;
+}
+.tekst{
+  height: auto;
+  width: 100%;
+  background-color: #fff;
+}
+.container{
+  scroll-behavior: smooth;
+}
+main{
+  overflow-y: scroll;
+  width:100%;
+  height:50vh;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+}
+ul{
+  width:auto;
+}
+li{
+  display: block;
+  list-style: none;
+  font-family:"Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  font-weight: bold;
+  line-height: 1.6;
+  font-size: 1em;
+  margin-bottom: 5px;
+  padding: 30px;
+  max-width: 50rem;
+  display: flex;
+  align-items: baseline;
+}
+li:last-of-type{
+  border: solid black .2rem;
+}
+li>span:first-of-type{
+  font-size: large;
+  font-weight: normal;
+  margin-right: 10px;
+}
+li>span:nth-of-type(2){
+  font-size: 1.2em;
+  line-height: 1.4em;
+  font-weight: bold;
+}
+.matthijs {
+  color: black;
+  border-radius: 5px;
+  font-size: 1em;
+}
+.sylvana {
+  color: black;
+  border-radius: 5px;
+  font-size: 1em;
+}
+.marc{
+  color: black;
+  border-radius: 5px;
+  font-size: 1em;
+}
+.ingeborg{
+  color: black;
+  border-radius: 5px;
+  font-size: 1em;
+}
+.martin{
+  color: black;
+  border-radius: 5px;
+  font-size: 1em;
+}
+.announcement{
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  /* background-color:rgba(255,0,0,0.5); */
+  color: white;
+  text-align: center;
+  width: 75%;
+  border-radius: .5rem;
+  margin-left: 9.5%;
+}
